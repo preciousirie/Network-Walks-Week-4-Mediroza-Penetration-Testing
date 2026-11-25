@@ -1,1 +1,0 @@
-Week 4 of the Network Walks Cybersecurity Internship (Batch B084): An authorized black-box vulnerability assessment of the Mediroza General Hospital educational web application, covering reconnaissance, vulnerability identification, document security, password assessment, evidence collection and remediation recommendations.
